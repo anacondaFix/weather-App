@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+  <g id="Group_926" data-name="Group 926" transform="translate(0 -0.484)">
+    <g id="Group_912" data-name="Group 912">
+      <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(0 0.484)" fill="#3bacf2" stroke="#3bacf2" stroke-width="3">
+        <circle cx="18.5" cy="18.5" r="18.5" stroke="none"/>
+        <circle cx="18.5" cy="18.5" r="17" fill="none"/>
+      </g>
+      <g id="test-tube_1_" data-name="test-tube (1)" transform="translate(12.182 6.942)">
+        <g id="c7_test_tube" transform="translate(0)">
+          <path id="Path_1142" data-name="Path 1142" d="M18.118,0H6.733a.8.8,0,0,0-.811.785.8.8,0,0,0,.811.784H7.3l0,16.818a5.042,5.042,0,0,0,5.129,4.95,5.2,5.2,0,0,0,3.63-1.453,4.854,4.854,0,0,0,1.5-3.5l0-16.818h.563a.8.8,0,0,0,.812-.784A.8.8,0,0,0,18.118,0Zm-4.7,9.768a1.314,1.314,0,0,1-1.813,0,1.2,1.2,0,0,1,0-1.75,1.315,1.315,0,0,1,1.815,0A1.2,1.2,0,0,1,13.42,9.768ZM11.306,4.811a.876.876,0,0,1,1.207,0,.8.8,0,0,1,0,1.166.877.877,0,0,1-1.209,0A.8.8,0,0,1,11.306,4.811Zm2.317,1.262a.646.646,0,0,1,.89,0,.593.593,0,0,1,0,.859.645.645,0,0,1-.893,0A.591.591,0,0,1,13.624,6.074Zm2.223,6.284-6.84-1.6V1.569h6.84V12.358Z" transform="translate(-5.922)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
