@@ -13,7 +13,9 @@ const forecast = (long, lat, callback)=>{
         } else{
             callback(undefined, {
                // location: response.body.location.name,
-                forecast: 'it is currently '+ body.current.temperature + ' out. It feels like '+ body.current.feelslike+' deg. out'
+               // forecast: 'it is currently '+ body.current.temperature + ' out. It feels like '+ body.current.feelslike+' deg. out'
+                forecast: 'current forecast is :'+ body.current.weather_descriptions[0]
+        
             })
 
         }
